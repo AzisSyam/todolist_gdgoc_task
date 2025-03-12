@@ -1,0 +1,9 @@
+
+        body { font-family: Arial, sans-serif; margin: 20px; }
+        table { width: 100%; border-collapse: collapse; margin-top: 20px; }
+        th, td { border: 1px solid #ddd; padding: 8px; text-align: left; }
+        th { background-color: #f4f4f4; }
+        .done { text-decoration: line-through; color: gray; }
+        .btn { padding: 5px 10px; border: none; cursor: pointer; }
+        .delete { background-color: red; color: white; }
+        .done-btn { background-color: green; color: white; }
