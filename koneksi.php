@@ -1,7 +1,7 @@
 <?php
 $host = "localhost";
-$user = "root"; // Ganti jika pakai user lain
-$password = ""; // Ganti jika ada password
+$user = "root"; 
+$password = ""; 
 $database = "todo_list_db";
 
 $conn = mysqli_connect($host, $user, $password, $database);
